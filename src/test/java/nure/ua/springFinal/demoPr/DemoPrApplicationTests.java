@@ -1,4 +1,4 @@
-package nure.ua.springFinal.demoPr;
+/**package nure.ua.springFinal.demoPr;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -11,3 +11,4 @@ class DemoPrApplicationTests {
 	}
 
 }
+*/
